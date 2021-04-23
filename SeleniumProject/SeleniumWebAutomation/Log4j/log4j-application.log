@@ -1,0 +1,534 @@
+2021-04-08 22:34:22 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:34:25 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:34:26 INFO  Log4j:15 - Openning login page
+2021-04-08 22:40:45 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:40:47 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:40:49 INFO  Log4j:15 - Openning login page
+2021-04-08 22:40:52 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:40:55 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:40:58 INFO  Log4j:15 - Openning second page
+2021-04-08 22:43:23 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:43:26 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:43:28 INFO  Log4j:15 - Openning login page
+2021-04-08 22:43:30 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:43:34 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:43:36 INFO  Log4j:15 - Openning second page
+2021-04-08 22:44:25 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:44:28 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:44:30 INFO  Log4j:15 - Openning login page
+2021-04-08 22:44:32 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:44:36 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:44:38 INFO  Log4j:15 - Openning second page
+2021-04-08 22:45:23 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:45:25 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:45:27 INFO  Log4j:15 - Openning login page
+2021-04-08 22:45:29 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:45:33 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:45:35 INFO  Log4j:15 - Openning second page
+2021-04-08 22:45:35 INFO  Log4j:15 - current
+2021-04-08 22:49:48 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:49:51 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:49:52 INFO  Log4j:15 - Openning login page
+2021-04-08 22:49:54 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:49:58 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:50:00 INFO  Log4j:15 - Openning second page
+2021-04-08 22:50:00 INFO  Log4j:15 - Second page is open
+2021-04-08 22:50:03 INFO  Log4j:15 - Openning product page
+2021-04-08 22:53:39 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:53:48 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:53:50 INFO  Log4j:15 - Openning login page
+2021-04-08 22:53:52 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:53:55 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:53:57 INFO  Log4j:15 - Openning second page
+2021-04-08 22:53:57 INFO  Log4j:15 - Second page is open
+2021-04-08 22:53:59 INFO  Log4j:15 - Openning product page
+2021-04-08 22:53:59 INFO  Log4j:15 - Adding product to basket
+2021-04-08 22:53:59 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 22:54:00 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 22:56:24 INFO  Log4j:7 - Test is starting...
+2021-04-08 22:56:26 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 22:56:28 INFO  Log4j:15 - Openning login page
+2021-04-08 22:56:30 INFO  Log4j:15 - Loginned successfully
+2021-04-08 22:56:34 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 22:56:36 INFO  Log4j:15 - Openning second page
+2021-04-08 22:56:36 INFO  Log4j:15 - Second page is open
+2021-04-08 22:56:38 INFO  Log4j:15 - Openning product page
+2021-04-08 22:56:39 INFO  Log4j:15 - Adding product to basket
+2021-04-08 22:56:39 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 22:56:39 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:01:02 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:01:04 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:01:06 INFO  Log4j:15 - Openning login page
+2021-04-08 23:01:08 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:01:12 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:01:15 INFO  Log4j:15 - Openning second page
+2021-04-08 23:01:15 INFO  Log4j:15 - Second page is open
+2021-04-08 23:01:17 INFO  Log4j:15 - Openning product page
+2021-04-08 23:01:17 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:01:17 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:01:18 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:01:19 INFO  Log4j:15 - 2product(s) in the basket
+2021-04-08 23:07:46 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:07:51 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:07:53 INFO  Log4j:15 - Openning login page
+2021-04-08 23:07:55 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:07:58 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:08:01 INFO  Log4j:15 - Openning second page
+2021-04-08 23:08:01 INFO  Log4j:15 - Second page is open
+2021-04-08 23:08:03 INFO  Log4j:15 - Openning product page
+2021-04-08 23:08:03 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:08:03 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:08:03 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:08:05 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:08:36 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:08:39 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:08:41 INFO  Log4j:15 - Openning login page
+2021-04-08 23:08:44 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:08:47 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:08:50 INFO  Log4j:15 - Openning second page
+2021-04-08 23:08:50 INFO  Log4j:15 - Second page is open
+2021-04-08 23:08:52 INFO  Log4j:15 - Openning product page
+2021-04-08 23:08:52 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:08:52 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:08:53 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:08:55 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:08:55 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:18:32 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:18:34 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:18:36 INFO  Log4j:15 - Openning login page
+2021-04-08 23:18:37 INFO  Log4j:15 - Loginning
+2021-04-08 23:19:25 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:19:28 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:19:30 INFO  Log4j:15 - Openning login page
+2021-04-08 23:19:31 INFO  Log4j:15 - Loginning
+2021-04-08 23:20:03 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:20:06 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:20:08 INFO  Log4j:15 - Openning login page
+2021-04-08 23:20:09 INFO  Log4j:15 - Loginning
+2021-04-08 23:21:02 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:21:04 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:21:06 INFO  Log4j:15 - Openning login page
+2021-04-08 23:21:07 INFO  Log4j:15 - Loginning
+2021-04-08 23:23:18 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:23:21 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:23:23 INFO  Log4j:15 - Openning login page
+2021-04-08 23:23:23 INFO  Log4j:15 - Loginning
+2021-04-08 23:26:47 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:26:49 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:26:52 INFO  Log4j:15 - Openning login page
+2021-04-08 23:26:54 INFO  Log4j:15 - Loginning
+2021-04-08 23:26:54 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:26:59 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:27:01 INFO  Log4j:15 - Openning second page
+2021-04-08 23:27:01 INFO  Log4j:15 - Second page is open
+2021-04-08 23:27:03 INFO  Log4j:15 - Openning product page
+2021-04-08 23:27:04 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:27:04 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:27:04 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:27:07 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:27:07 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:27:31 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:27:34 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:27:45 INFO  Log4j:15 - Openning login page
+2021-04-08 23:27:46 INFO  Log4j:15 - Loginning
+2021-04-08 23:30:59 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:31:01 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:31:03 INFO  Log4j:15 - Openning login page
+2021-04-08 23:31:06 INFO  Log4j:15 - Loginning
+2021-04-08 23:31:06 INFO  Log4j:15 - https://www.gittigidiyor.com/
+2021-04-08 23:31:06 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:31:09 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:31:12 INFO  Log4j:15 - Openning second page
+2021-04-08 23:31:12 INFO  Log4j:15 - Second page is open
+2021-04-08 23:31:14 INFO  Log4j:15 - Openning product page
+2021-04-08 23:31:14 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:31:15 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:31:15 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:31:17 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:31:17 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:32:42 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:32:44 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:32:46 INFO  Log4j:15 - Openning login page
+2021-04-08 23:32:48 INFO  Log4j:15 - Loginning
+2021-04-08 23:32:48 INFO  Log4j:15 - Can NOT login
+2021-04-08 23:33:00 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:33:02 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:33:04 INFO  Log4j:15 - Openning login page
+2021-04-08 23:33:07 INFO  Log4j:15 - Loginning
+2021-04-08 23:33:07 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:33:11 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:33:13 INFO  Log4j:15 - Openning second page
+2021-04-08 23:33:13 INFO  Log4j:15 - Second page is open
+2021-04-08 23:33:15 INFO  Log4j:15 - Openning product page
+2021-04-08 23:33:15 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:33:15 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:33:16 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:33:18 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:33:18 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:39:50 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:39:53 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:39:55 INFO  Log4j:15 - Openning login page
+2021-04-08 23:39:58 INFO  Log4j:15 - Loginning
+2021-04-08 23:39:58 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:40:01 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:40:04 INFO  Log4j:15 - Openning second page
+2021-04-08 23:40:04 INFO  Log4j:15 - Second page is open
+2021-04-08 23:40:06 INFO  Log4j:15 - Openning product page
+2021-04-08 23:40:06 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:40:06 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:40:06 INFO  Log4j:15 - Basket price:149,90 TL
+2021-04-08 23:40:06 WARN  Log4j:19 - Product price is NOT equal to basket price
+2021-04-08 23:40:23 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:40:25 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:40:27 INFO  Log4j:15 - Openning login page
+2021-04-08 23:40:28 INFO  Log4j:15 - Loginning
+2021-04-08 23:40:28 INFO  Log4j:15 - Can NOT login
+2021-04-08 23:40:36 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:40:38 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:40:40 INFO  Log4j:15 - Openning login page
+2021-04-08 23:40:42 INFO  Log4j:15 - Loginning
+2021-04-08 23:40:42 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:40:46 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:40:49 INFO  Log4j:15 - Openning second page
+2021-04-08 23:40:49 INFO  Log4j:15 - Second page is open
+2021-04-08 23:40:50 INFO  Log4j:15 - Openning product page
+2021-04-08 23:40:50 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:40:51 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:41:09 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:41:11 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:41:14 INFO  Log4j:15 - Openning login page
+2021-04-08 23:41:16 INFO  Log4j:15 - Loginning
+2021-04-08 23:41:16 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:41:19 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:41:21 INFO  Log4j:15 - Openning second page
+2021-04-08 23:41:21 INFO  Log4j:15 - Second page is open
+2021-04-08 23:41:24 INFO  Log4j:15 - Openning product page
+2021-04-08 23:41:24 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:41:24 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:41:24 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:41:24 WARN  Log4j:19 - Product price is NOT equal to basket price
+2021-04-08 23:42:05 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:42:07 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:42:09 INFO  Log4j:15 - Openning login page
+2021-04-08 23:42:11 INFO  Log4j:15 - Loginning
+2021-04-08 23:42:12 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:42:16 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:42:18 INFO  Log4j:15 - Openning second page
+2021-04-08 23:42:18 INFO  Log4j:15 - Second page is open
+2021-04-08 23:42:20 INFO  Log4j:15 - Openning product page
+2021-04-08 23:42:20 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:42:20 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:42:21 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:42:23 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:42:23 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:42:36 INFO  Log4j:15 - Basket is empty
+2021-04-08 23:44:50 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:44:52 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:44:54 INFO  Log4j:15 - Openning login page
+2021-04-08 23:44:56 INFO  Log4j:15 - Loginning
+2021-04-08 23:44:56 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:45:00 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:45:02 INFO  Log4j:15 - Openning second page
+2021-04-08 23:45:02 INFO  Log4j:15 - Second page is open
+2021-04-08 23:45:04 INFO  Log4j:15 - Openning product page
+2021-04-08 23:45:04 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:45:04 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:45:18 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:45:20 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:45:20 INFO  Log4j:11 - Test is ending...
+2021-04-08 23:45:50 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:45:53 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:45:54 INFO  Log4j:15 - Openning login page
+2021-04-08 23:45:57 INFO  Log4j:15 - Loginning
+2021-04-08 23:45:57 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:46:00 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:46:03 INFO  Log4j:15 - Openning second page
+2021-04-08 23:46:03 INFO  Log4j:15 - Second page is open
+2021-04-08 23:46:04 INFO  Log4j:15 - Openning product page
+2021-04-08 23:46:04 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:46:04 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:46:05 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:46:06 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:46:07 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:46:07 INFO  Log4j:15 - Basket is empty
+2021-04-08 23:46:07 INFO  Log4j:11 - Test is ending...
+2021-04-08 23:50:20 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:50:23 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:50:25 INFO  Log4j:15 - Openning login page
+2021-04-08 23:50:27 INFO  Log4j:15 - Loginning
+2021-04-08 23:50:27 INFO  Log4j:15 - Can NOT login
+2021-04-08 23:50:27 INFO  Log4j:11 - Test is ending...
+2021-04-08 23:50:47 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:50:50 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:50:52 INFO  Log4j:15 - Openning login page
+2021-04-08 23:50:54 INFO  Log4j:15 - Loginning
+2021-04-08 23:50:54 ERROR Log4j:23 - Can NOT login
+2021-04-08 23:50:54 INFO  Log4j:11 - Test is ending...
+2021-04-08 23:57:28 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:57:30 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:57:32 INFO  Log4j:15 - Openning login page
+2021-04-08 23:57:35 INFO  Log4j:15 - Loginning
+2021-04-08 23:57:35 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:57:39 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:57:41 INFO  Log4j:15 - Openning second page
+2021-04-08 23:57:41 INFO  Log4j:15 - Second page is open
+2021-04-08 23:57:43 INFO  Log4j:15 - Openning product page
+2021-04-08 23:57:43 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:57:43 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-08 23:57:44 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-08 23:57:46 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:57:46 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:57:47 INFO  Log4j:15 - Basket is empty
+2021-04-08 23:57:47 INFO  Log4j:11 - Test is ending...
+2021-04-08 23:57:59 INFO  Log4j:7 - Test is starting...
+2021-04-08 23:58:02 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-08 23:58:04 INFO  Log4j:15 - Openning login page
+2021-04-08 23:58:06 INFO  Log4j:15 - Loginning
+2021-04-08 23:58:06 INFO  Log4j:15 - Loginned successfully
+2021-04-08 23:58:09 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-08 23:58:12 INFO  Log4j:15 - Openning second page
+2021-04-08 23:58:12 INFO  Log4j:15 - Second page is open
+2021-04-08 23:58:14 INFO  Log4j:15 - Openning product page
+2021-04-08 23:58:14 INFO  Log4j:15 - Adding product to basket
+2021-04-08 23:58:14 INFO  Log4j:15 - Product price:1.848,90 TL
+2021-04-08 23:58:15 INFO  Log4j:15 - Basket price:1.848,90 TL
+2021-04-08 23:58:16 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-08 23:58:17 INFO  Log4j:15 - Removing products from basket
+2021-04-08 23:58:18 INFO  Log4j:15 - Basket is empty
+2021-04-08 23:58:18 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:07:20 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:07:23 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:07:25 INFO  Log4j:15 - Openning login page
+2021-04-09 00:07:27 INFO  Log4j:15 - Loginning
+2021-04-09 00:07:27 ERROR Log4j:23 - Can NOT login
+2021-04-09 00:07:27 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:34:52 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:34:55 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:34:57 INFO  Log4j:15 - Openning login page
+2021-04-09 00:34:59 INFO  Log4j:15 - Loginning
+2021-04-09 00:34:59 ERROR Log4j:23 - Can NOT login
+2021-04-09 00:34:59 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:39:01 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:39:04 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:39:06 INFO  Log4j:15 - Openning login page
+2021-04-09 00:39:08 INFO  Log4j:15 - Loginning
+2021-04-09 00:39:08 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:39:23 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:39:25 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:39:27 INFO  Log4j:15 - Openning login page
+2021-04-09 00:39:30 INFO  Log4j:15 - Loginning
+2021-04-09 00:39:30 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:40:01 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:40:04 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:40:06 INFO  Log4j:15 - Openning login page
+2021-04-09 00:40:08 INFO  Log4j:15 - Loginning
+2021-04-09 00:41:48 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:41:53 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:41:56 INFO  Log4j:15 - Openning login page
+2021-04-09 00:41:58 INFO  Log4j:15 - Loginning
+2021-04-09 00:41:58 INFO  Log4j:11 - Test is ending...
+2021-04-09 00:42:34 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:42:38 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:42:40 INFO  Log4j:15 - Openning login page
+2021-04-09 00:43:03 INFO  Log4j:15 - Loginning
+2021-04-09 00:43:25 INFO  Log4j:7 - Test is starting...
+2021-04-09 00:43:27 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 00:43:29 INFO  Log4j:15 - Openning login page
+2021-04-09 00:43:32 INFO  Log4j:15 - Loginning
+2021-04-09 00:43:32 INFO  Log4j:15 - Loginned successfully
+2021-04-09 00:43:36 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-09 00:43:39 INFO  Log4j:15 - Openning second page
+2021-04-09 00:43:39 INFO  Log4j:15 - Second page is open
+2021-04-09 00:43:41 INFO  Log4j:15 - Openning product page
+2021-04-09 00:43:41 INFO  Log4j:15 - Adding product to basket
+2021-04-09 00:43:41 INFO  Log4j:15 - Product price:2.723,90 TL
+2021-04-09 00:43:41 INFO  Log4j:15 - Basket price:2.723,90 TL
+2021-04-09 00:43:41 INFO  Log4j:15 - Product price and basket price is equal
+2021-04-09 00:43:41 INFO  Log4j:15 - Adding product to basket
+2021-04-09 00:43:43 INFO  Log4j:15 - 2 product(s) in the basket
+2021-04-09 00:43:43 INFO  Log4j:15 - Removing products from basket
+2021-04-09 00:43:44 INFO  Log4j:15 - Basket is empty
+2021-04-09 00:43:44 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:10:34 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:10:36 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:10:38 INFO  Log4j:15 - Openning login page
+2021-04-09 01:10:39 INFO  Log4j:15 - Loginning
+2021-04-09 01:10:39 ERROR Log4j:23 - Can NOT login
+2021-04-09 01:10:39 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:11:29 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:11:31 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:11:33 INFO  Log4j:15 - Openning login page
+2021-04-09 01:11:36 INFO  Log4j:15 - Loginning
+2021-04-09 01:11:36 INFO  Log4j:15 - Loginned successfully
+2021-04-09 01:11:41 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-09 01:11:43 INFO  Log4j:15 - Openning second page
+2021-04-09 01:11:43 INFO  Log4j:15 - Second page is open
+2021-04-09 01:11:46 INFO  Log4j:15 - Openning product page
+2021-04-09 01:11:46 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:11:46 INFO  Log4j:15 - Product price:2.723,90 TL
+2021-04-09 01:11:46 INFO  Log4j:15 - Basket price:2.723,90 TL
+2021-04-09 01:11:46 INFO  Log4j:15 - Product price and basket price is equal
+2021-04-09 01:11:46 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:11:48 INFO  Log4j:15 - 2 product(s) are in the basket
+2021-04-09 01:11:48 INFO  Log4j:15 - Removing products from basket
+2021-04-09 01:11:49 INFO  Log4j:15 - Basket is empty
+2021-04-09 01:11:49 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:12:46 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:12:49 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:12:51 INFO  Log4j:15 - Openning login page
+2021-04-09 01:12:52 INFO  Log4j:15 - Loginning
+2021-04-09 01:12:52 ERROR Log4j:23 - Can NOT login
+2021-04-09 01:12:52 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:17:03 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:17:06 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:17:08 INFO  Log4j:15 - Openning login page
+2021-04-09 01:17:12 INFO  Log4j:15 - Loginning
+2021-04-09 01:17:12 INFO  Log4j:15 - Loginned successfully
+2021-04-09 01:17:16 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-09 01:17:20 INFO  Log4j:15 - Openning second page
+2021-04-09 01:17:20 INFO  Log4j:15 - Second page is open
+2021-04-09 01:17:23 INFO  Log4j:15 - Openning product page
+2021-04-09 01:17:23 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:17:23 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-09 01:17:24 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-09 01:17:24 INFO  Log4j:15 - Product price and basket price is equal
+2021-04-09 01:17:24 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:17:27 INFO  Log4j:15 - 2 product(s) are in the basket
+2021-04-09 01:17:28 INFO  Log4j:15 - Removing products from basket
+2021-04-09 01:17:28 INFO  Log4j:15 - Basket is empty
+2021-04-09 01:17:28 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:21:29 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:21:32 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:21:35 INFO  Log4j:15 - Openning login page
+2021-04-09 01:21:38 INFO  Log4j:15 - Loginning
+2021-04-09 01:21:38 INFO  Log4j:15 - Loginned successfully
+2021-04-09 01:21:42 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-09 01:21:45 INFO  Log4j:15 - Openning second page
+2021-04-09 01:21:46 INFO  Log4j:15 - Second page is open
+2021-04-09 01:21:49 INFO  Log4j:15 - Openning product page
+2021-04-09 01:21:49 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:21:49 INFO  Log4j:15 - Product price:7.349,00 TL
+2021-04-09 01:21:50 INFO  Log4j:15 - Basket price:7.349,00 TL
+2021-04-09 01:21:50 INFO  Log4j:15 - Product price and basket price is equal
+2021-04-09 01:21:50 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:21:52 INFO  Log4j:15 - 2 product(s) are in the basket
+2021-04-09 01:21:52 INFO  Log4j:15 - Removing products from basket
+2021-04-09 01:21:53 INFO  Log4j:15 - Basket is empty
+2021-04-09 01:21:53 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:22:26 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:22:29 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:22:31 INFO  Log4j:15 - Openning login page
+2021-04-09 01:22:35 INFO  Log4j:15 - Loginning
+2021-04-09 01:22:35 INFO  Log4j:15 - Loginned successfully
+2021-04-09 01:22:38 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-09 01:22:41 INFO  Log4j:15 - Openning second page
+2021-04-09 01:22:41 INFO  Log4j:15 - Second page is open
+2021-04-09 01:22:44 INFO  Log4j:15 - Openning product page
+2021-04-09 01:22:44 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:22:44 INFO  Log4j:15 - Product price:2.723,90 TL
+2021-04-09 01:22:44 INFO  Log4j:15 - Basket price:2.723,90 TL
+2021-04-09 01:22:45 INFO  Log4j:15 - Product price and basket price is equal
+2021-04-09 01:22:45 INFO  Log4j:15 - Adding product to basket
+2021-04-09 01:22:47 INFO  Log4j:15 - 2 product(s) are in the basket
+2021-04-09 01:22:47 INFO  Log4j:15 - Removing products from basket
+2021-04-09 01:22:48 INFO  Log4j:15 - Basket is empty
+2021-04-09 01:22:48 INFO  Log4j:11 - Test is ending...
+2021-04-09 01:23:26 INFO  Log4j:7 - Test is starting...
+2021-04-09 01:23:29 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-09 01:23:31 INFO  Log4j:15 - Openning login page
+2021-04-09 01:23:33 INFO  Log4j:15 - Loginning
+2021-04-09 01:23:33 ERROR Log4j:23 - Can NOT login
+2021-04-09 01:23:33 INFO  Log4j:11 - Test is ending...
+2021-04-23 02:10:09 INFO  Log4j:7 - Test is starting...
+2021-04-23 02:10:21 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 02:11:02 INFO  Log4j:15 - Openning login page
+2021-04-23 02:11:04 INFO  Log4j:15 - Loginning
+2021-04-23 02:11:04 ERROR Log4j:23 - Can NOT login
+2021-04-23 02:11:04 INFO  Log4j:11 - Test is ending...
+2021-04-23 02:19:54 INFO  Log4j:7 - Test is starting...
+2021-04-23 02:20:04 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 02:20:09 INFO  Log4j:15 - Openning login page
+2021-04-23 02:20:11 INFO  Log4j:15 - Loginning
+2021-04-23 02:20:11 ERROR Log4j:23 - Can NOT login
+2021-04-23 02:20:11 INFO  Log4j:11 - Test is ending...
+2021-04-23 02:20:29 INFO  Log4j:7 - Test is starting...
+2021-04-23 02:20:38 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 02:20:42 INFO  Log4j:15 - Openning login page
+2021-04-23 02:20:44 INFO  Log4j:15 - Loginning
+2021-04-23 02:20:44 ERROR Log4j:23 - Can NOT login
+2021-04-23 02:20:44 INFO  Log4j:11 - Test is ending...
+2021-04-23 02:25:11 INFO  Log4j:7 - Test is starting...
+2021-04-23 02:25:21 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 02:25:27 INFO  Log4j:15 - Openning login page
+2021-04-23 02:25:31 INFO  Log4j:15 - Loginning
+2021-04-23 02:25:31 ERROR Log4j:23 - Can NOT login
+2021-04-23 02:25:31 INFO  Log4j:11 - Test is ending...
+2021-04-23 10:30:59 INFO  Log4j:7 - Test is starting...
+2021-04-23 10:31:07 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 10:31:13 INFO  Log4j:15 - Openning login page
+2021-04-23 10:31:21 INFO  Log4j:15 - Loginning
+2021-04-23 10:31:21 INFO  Log4j:15 - Loginned successfully
+2021-04-23 10:31:29 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 10:31:35 INFO  Log4j:15 - Openning second page
+2021-04-23 10:31:35 INFO  Log4j:15 - Second page is open
+2021-04-23 10:32:20 INFO  Log4j:11 - Test is ending...
+2021-04-23 10:34:02 INFO  Log4j:7 - Test is starting...
+2021-04-23 10:34:14 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 10:34:22 INFO  Log4j:15 - Openning login page
+2021-04-23 10:34:27 INFO  Log4j:15 - Loginning
+2021-04-23 10:34:27 INFO  Log4j:15 - Loginned successfully
+2021-04-23 10:34:36 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 10:34:41 INFO  Log4j:15 - Openning second page
+2021-04-23 10:34:41 INFO  Log4j:15 - Second page is open
+2021-04-23 10:34:56 INFO  Log4j:11 - Test is ending...
+2021-04-23 10:35:09 INFO  Log4j:7 - Test is starting...
+2021-04-23 10:35:21 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 10:35:26 INFO  Log4j:15 - Openning login page
+2021-04-23 10:35:33 INFO  Log4j:15 - Loginning
+2021-04-23 10:35:33 INFO  Log4j:15 - Loginned successfully
+2021-04-23 10:35:43 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 10:35:49 INFO  Log4j:15 - Openning second page
+2021-04-23 10:35:49 INFO  Log4j:15 - Second page is open
+2021-04-23 10:35:58 INFO  Log4j:11 - Test is ending...
+2021-04-23 10:37:11 INFO  Log4j:7 - Test is starting...
+2021-04-23 10:37:19 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 10:37:24 INFO  Log4j:15 - Openning login page
+2021-04-23 10:37:29 INFO  Log4j:15 - Loginning
+2021-04-23 10:37:29 INFO  Log4j:15 - Loginned successfully
+2021-04-23 10:37:37 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 10:37:41 INFO  Log4j:15 - Openning second page
+2021-04-23 10:37:41 INFO  Log4j:15 - Second page is open
+2021-04-23 10:38:07 INFO  Log4j:11 - Test is ending...
+2021-04-23 11:16:45 INFO  Log4j:7 - Test is starting...
+2021-04-23 11:16:55 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 11:16:59 INFO  Log4j:15 - Openning login page
+2021-04-23 11:17:04 INFO  Log4j:15 - Loginning
+2021-04-23 11:17:04 INFO  Log4j:15 - Loginned successfully
+2021-04-23 11:17:13 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 11:17:17 INFO  Log4j:15 - Openning second page
+2021-04-23 11:17:17 INFO  Log4j:15 - Second page is open
+2021-04-23 11:17:35 INFO  Log4j:11 - Test is ending...
+2021-04-23 11:19:51 INFO  Log4j:7 - Test is starting...
+2021-04-23 11:20:00 INFO  Log4j:15 - Openning page:https://www.gittigidiyor.com
+2021-04-23 11:20:07 INFO  Log4j:15 - Openning login page
+2021-04-23 11:20:13 INFO  Log4j:15 - Loginning
+2021-04-23 11:20:13 INFO  Log4j:15 - Loginned successfully
+2021-04-23 11:20:20 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 11:20:24 INFO  Log4j:15 - Openning second page
+2021-04-23 11:20:24 INFO  Log4j:15 - Second page is open
+2021-04-23 11:20:28 INFO  Log4j:11 - Test is ending...
+2021-04-23 11:25:45 INFO  Log4j:7 - Test is starting...
+2021-04-23 11:25:55 INFO  Log4j:15 - Opening page:https://www.gittigidiyor.com
+2021-04-23 11:26:01 INFO  Log4j:15 - Opening login page
+2021-04-23 11:26:06 INFO  Log4j:15 - Logining
+2021-04-23 11:26:06 INFO  Log4j:15 - Loginned successfully
+2021-04-23 11:26:14 INFO  Log4j:15 - Searching 'bilgisayar' word
+2021-04-23 11:26:18 INFO  Log4j:15 - Opening second page
+2021-04-23 11:26:18 INFO  Log4j:15 - Second page is open
+2021-04-23 11:26:23 INFO  Log4j:11 - Test is ending...
+2021-04-23 12:38:33 INFO  Log4j:7 - Test is starting...
+2021-04-23 12:38:43 INFO  Log4j:15 - Opening page:https://www.gittigidiyor.com
+2021-04-23 12:38:54 INFO  Log4j:15 - Opening login page
+2021-04-23 12:39:02 INFO  Log4j:15 - Logining
+2021-04-23 12:39:02 ERROR Log4j:23 - Can NOT login
+2021-04-23 12:39:02 INFO  Log4j:11 - Test is ending...
